@@ -1,12 +1,12 @@
 🏦 Bank Customer Churn Analysis - Power BI Dashboard
 10K customers analyzed | 2,037 churned | 20.4% churn rate | Identify at-risk segments & retention strategy
 
+
+![Live Dashboard](https://img.shields.io/badge/Live%20Dashboard-View%20Interactive%20Report-brightgreen?style=for-the-badge&logo=powerbi)
 ![GitHub](https://img.shields.io/badge/GitHub-View%20Code-black?style=for-the-badge&logo=github)
 ![Portfolio](https://img.shields.io/badge/Portfolio-7%20Projects-blue?style=for-the-badge)
 
 🔗 Quick Links
-Resource	Link
-📊 Live Dashboard	Click to Interact - Novy.pro - Replace with your Novy.pro link
 💻 GitHub Repo	https://github.com/Hema-Sharma11554/Bank-Customer-Churn-Data-Analysis
 🌐 My Portfolio	https://hema-sharma11554.github.io/Portfolio-Hema-Sharma11554/
 
