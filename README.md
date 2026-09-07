@@ -1,8 +1,10 @@
 🏦 Bank Customer Churn Analysis - Power BI Dashboard
 10K customers analyzed | 2,037 churned | 20.4% churn rate | Identify at-risk segments & retention strategy
+
 ![Live Dashboard](https://img.shields.io/badge/Live%20Dashboard-View%20Interactive%20Report-brightgreen?style=for-the-badge&logo=powerbi)
 ![GitHub](https://img.shields.io/badge/GitHub-View%20Code-black?style=for-the-badge&logo=github)
 ![Portfolio](https://img.shields.io/badge/Portfolio-7%20Projects-blue?style=for-the-badge)
+
 🔗 Quick Links
 Resource	Link
 📊 Live Dashboard	Click to Interact - Novy.pro - Replace with your Novy.pro link
@@ -19,7 +21,7 @@ Avg Churn Risk	France 50.14% customers	Highest risk geography
 📊 Dashboard Walkthrough
 Main Dashboard - Bank Churn Analysis Overview
 Complete view of churn drivers: Gender, Activity Status, Credit Card, Country, Product, Age, Credit Score & Salary segments.
-![Bank Churn Main Dashboard](Bank_Churn_Analysis_Dashboard.png)
+<img width="711" height="402" alt="Image" src="https://github.com/user-attachments/assets/716ce056-1348-486e-8728-e11bf4afd82f" />
 
 Row 1 - KPI Cards:
 10K Customers, 2037 Lost, 20.4% Churn Rate + Gauge chart 0-100%
