@@ -11,16 +11,19 @@ Resource	Link
 💻 GitHub Repo	https://github.com/Hema-Sharma11554/Bank-Customer-Churn-Data-Analysis
 🌐 My Portfolio	https://hema-sharma11554.github.io/Portfolio-Hema-Sharma11554/
 
+
 📊 Key Metrics
 •	Total Customers: 10,000
 •	Lost Customers: 2,037
 •	Churn Rate: 20.4%
+
 
 🔍 Visual Insights
 •	Age Group Analysis: Customers >50 have the highest churn (~35%)
 •	Salary Segmentation: Lower income groups show higher churn
 •	Product Usage: Single-product holders are more likely to churn
 •	Geography & Activity: France leads in customer base; inactivity correlates with churn
+
 
 📊 Dashboard Walkthrough
 Main Dashboard - Bank Churn Analysis Overview
@@ -46,16 +49,19 @@ Tier 3 (Medium): 41-50 age = Loyalty points
 Product Bundle: Offer Prod 1 + Prod 2 + Credit Card at discount to single-product holders
 Proactive Alert: Build Power Automate flow - when credit score drops below 500, trigger RM call
 
+
 🛠️ Tech Stack
 Tools: Power BI, DAX (Churn Rate % measure), Power Query, Slicers (Churn Status)
 Visuals: Donut Charts, Bar + Line Combo (Customers vs Churn Rate), Gauge, KPI Cards, Filters
 Analysis: Cohort by Age, Credit Score binning, Salary segmentation, Country/Product mix
 Domain: Banking, Customer Retention, Churn Analytics, Risk Management
 
+
 📁 Dataset Details
 Rows: 10,000 customers
 Churned: 2,037 (20.4%)
 Columns: Gender, Age, Geography (France/Germany/Spain), CreditScore, EstimatedSalary, HasCrCard, IsActiveMember, NumOfProducts, Exited (Churn)
+
 
 👩‍💼 Author
 Hemlata Sharma (Hema-Sharma11554) - Business Analyst Consultant
@@ -64,11 +70,13 @@ Specializes in Churn Reduction, Sales Analytics, HR Analytics
 Portfolio: https://hema-sharma11554.github.io/Portfolio-Hema-Sharma11554/
 GitHub: https://github.com/Hema-Sharma11554
 
+
 📌 Related Projects
 Coffee Shop Sales - $698K
 Ogul India Attrition - 19%
 Clarte HR - 835 Employees
 CRM Sales - 6,711 Opps
+
 
 ⭐ Star this repo! This is my most impactful churn project.
 #BankChurn #PowerBI #ChurnAnalysis #CustomerRetention #BankingAnalytics #BusinessAnalyst #DataAnalytics
